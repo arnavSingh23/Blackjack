@@ -1,12 +1,3 @@
-/*
- * Deck.java
- *
- * Computer Science 112, Boston University
- * 
- * A blueprint class for objects that represent a deck of cards.
- *
- * YOU SHOULD NOT MODIFY THIS FILE.
- */
 
 import java.util.*;
 
