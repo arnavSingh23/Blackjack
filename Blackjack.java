@@ -1,13 +1,3 @@
-/*
- * Blackjack.java
- * 
- * Computer Science 112, Boston University
- * 
- * The main class for a program that plays the game of Blackjack.
- * Will not compile and run until after you have completed Tasks 1 and 2.
- *
- * modified by: Arnav Singh, asingh23@bu.edu
- */
 
 import java.util.*;
 
