@@ -1,0 +1,27 @@
+.chart-bar.series0 {
+    -fx-background-color: rgba(0, 255, 0, 0.3);
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-background-radius: 0;
+    -fx-background-position: left center;
+}
+
+.chart-plot-background {
+    -fx-background-color: transparent;  /* Remove the plot background color */
+}
+
+.chart-horizontal-grid-lines {
+    -fx-stroke: black;  /* Change the color of the horizontal grid lines */
+}
+
+.chart-vertical-grid-lines {
+    -fx-stroke: black;  /* Change the color of the vertical grid lines */
+}
+
+.chart-horizontal-zero-line {
+    -fx-stroke: black;  /* Change the color of the horizontal zero line */
+}
+
+
+
+
